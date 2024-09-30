@@ -2,6 +2,6 @@
 
 Set of recipes as  given by my grandma.
 
-* pias (TODO)
-* saupes (TODO)
-* sreads(TODO)
+* pizzas (TODO)
+* sauces (TODO)
+* spreads (TODO)
