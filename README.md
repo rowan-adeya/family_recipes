@@ -8,4 +8,7 @@ Set of recipes as  given by my grandma.
 * spreads (TODO)
 * toppings (TODO)
 
+* [pasta](./pasta.md)
+
+
 
